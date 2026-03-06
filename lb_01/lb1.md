@@ -23,6 +23,7 @@
 Вывести 20 самых дорогих продаж из таблицы `sales`. Сортировка — по убыванию суммы.
 
 **Скриншот выполнения SELECT (из основной БД)**
+
 <img width="1350" height="563" alt="image" src="https://github.com/user-attachments/assets/8c3e45dd-8861-42ef-bf39-8237750899e4" />
 
 **Комментарий:**
@@ -36,6 +37,7 @@
 Вывести дилеров (`dealerships`) с датой закрытия (`date_closed IS NOT NULL`) в штате `CA`.
 
 **Скриншот выполнения SELECT (из основной БД)**
+
 <img width="1774" height="130" alt="image" src="https://github.com/user-attachments/assets/2fbf1269-27e3-488c-b1a8-4003134e020b" />
 
 **Комментарий:**
@@ -49,6 +51,7 @@
 Создать таблицу `recent_hires` для продавцов, нанятых с 2019 года, обновить их титул на `'Junior'` и удалить уволенных (`termination_date IS NOT NULL`).
 
 **Скриншот итоговой таблицы recent_hires**
+
 <img width="1611" height="372" alt="image" src="https://github.com/user-attachments/assets/0a972cd1-6df1-44e3-8811-83dc1f6db401" />
 
 **Комментарий:**
