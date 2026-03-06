@@ -62,7 +62,7 @@
 операции манипулирования данными (CRUD: Create, Read, Update, Delete) в
 безопасной локальной среде.
 
-Файл https://github.com/GubanovaSA/prog/blob/main/lab_01.sql содержит чистый код выполненных запросов.
+Файл [lab_01.sql](https://github.com/GubanovaSA/prog/blob/main/lab_01.sql) содержит чистый код выполненных запросов.
 
 ---
 
