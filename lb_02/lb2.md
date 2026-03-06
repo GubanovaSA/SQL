@@ -53,6 +53,6 @@ WHEN, COALESCE, DISTINCT.
 сложной фильтрации. Изучены функции очистки и подготовки данных: CASE
 WHEN, COALESCE, DISTINCT.
 
-Файл https://github.com/GubanovaSA/prog/blob/main/lab_02.sql содержит чистый код выполненных запросов.
+Файл [lab_02.sql](https://github.com/GubanovaSA/prog/blob/main/lab_02.sql) содержит чистый код выполненных запросов.
 
 ---
