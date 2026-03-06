@@ -19,6 +19,7 @@
 Посчитать сколько типов продуктов представлено в таблице. 
 
 **Скриншот выполнения SELECT (из основной БД)**
+
 <img width="352" height="87" alt="image" src="https://github.com/user-attachments/assets/e3520cb9-21f3-498a-914a-8355e6e9d29c" />
 
 ---
@@ -28,6 +29,7 @@
 Объедините список имен (first_name) клиентов и сотрудников в один столбец. 
 
 **Скриншот выполнения SELECT (из основной БД)**
+
 <img width="477" height="114" alt="image" src="https://github.com/user-attachments/assets/4f0be8a8-1112-4b7a-b508-620b4d1428d0" />
 
 ---
@@ -36,6 +38,7 @@
 Найти города дилеров, где средний чек выше 500.
 
 **Скриншот выполнения SELECT (из основной БД)**
+
 <img width="392" height="680" alt="image" src="https://github.com/user-attachments/assets/148c1b29-9273-4190-82f5-d0fc9c2b99a2" />
 
 ---
