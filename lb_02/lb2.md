@@ -22,6 +22,7 @@ WHEN, COALESCE, DISTINCT.
 Список дилеров (название города) и имена работающих там сотрудников мужчин. 
 
 **Скриншот выполнения SELECT (из основной БД)**
+
 <img width="540" height="1085" alt="image" src="https://github.com/user-attachments/assets/f3ef500e-2aca-459f-89ae-0835f9aaa559" />
 
 ---
@@ -32,6 +33,7 @@ WHEN, COALESCE, DISTINCT.
 Объедините список имен (first_name) клиентов и сотрудников в один столбец. 
 
 **Скриншот выполнения SELECT (из основной БД)**
+
 <img width="796" height="875" alt="image" src="https://github.com/user-attachments/assets/c67b0374-0817-4ac4-bf8a-4172ed7075d8" />
 
 ---
@@ -42,6 +44,7 @@ WHEN, COALESCE, DISTINCT.
 Рассчитайте скидку в % для каждой продажи ((base_msrp - sales_amount)/base_msrp ). Если base_msrp=0, вернуть 0 (NULLIF).
 
 **Скриншот выполнения SELECT (из основной БД)**
+
 <img width="1393" height="713" alt="image" src="https://github.com/user-attachments/assets/6b9c6e9a-8077-49bb-8615-b83225e88f81" />
 
 
