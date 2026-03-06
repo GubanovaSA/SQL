@@ -5,6 +5,7 @@
 https://github.com/GubanovaSA/SQL/tree/main/lb_01
 # Лабораторная работа №2  
 ## Использование соединений (JOIN), подзапросов и функций преобразования данных
-
+https://github.com/GubanovaSA/SQL/tree/main/lb_02https://github.com/GubanovaSA/SQL/tree/main/lb_02
 # Лабораторная работа №3 
 ## Агрегации и аналитические функции.
+https://github.com/GubanovaSA/SQL/tree/main/lb_03
