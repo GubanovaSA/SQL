@@ -8,3 +8,5 @@
 ## [Агрегации и аналитические функции.](https://github.com/GubanovaSA/SQL/tree/main/lb_03)
 # Лабораторная работа №4 
 ## [Оконные функции для анализа данных.](https://github.com/GubanovaSA/SQL/blob/main/lb_04/lb_04.md)
+# Лабораторная работа №5
+## [Оптимизация запросов с помощью индексов и анализа плана выполнения.](https://github.com/GubanovaSA/SQL/tree/main/lb_05)
