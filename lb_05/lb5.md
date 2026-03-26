@@ -146,7 +146,7 @@ WHERE email = 'test@example.com';
 Для поиска по уникальному полю (`email`) использование **UNIQUE индекса** является наиболее эффективным. Это обеспечивает быстрый доступ к данным и минимальное время выполнения запроса.
 
 ---
-ссылка на [скрипт](https://github.com/GubanovaSA/SQL/blob/main/lb_05/lab_05.sql)
+ссылка на скрипт [lab_05.sql](https://github.com/GubanovaSA/SQL/blob/main/lb_05/lab_05.sql)
 ---
 ## 4. Вывод
 
