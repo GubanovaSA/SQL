@@ -8,7 +8,7 @@
 
 ---
 
-# 🔹 Задача 1. Дни недели продаж
+# Задача 1. Дни недели продаж
 
 ## Условие  
 Определите, в какой день недели (понедельник, вторник и т.д.) совершается наибольшее количество продаж (sales). Выведите день недели и количество транзакций.
@@ -63,7 +63,7 @@ ORDER BY c.customer_id, min_distance;
 
 ---
 
-## 📸 Скриншот результата
+## Скриншот результата
 
 <img width="562" height="432" alt="image" src="https://github.com/user-attachments/assets/66b170dc-de46-4067-bae4-6d3b215ff092" />
 
@@ -139,7 +139,7 @@ INSERT INTO customer_survey (rating, feedback) VALUES
 
 ---
 
-## 📸 Скриншот результата
+## Скриншот результата
 
 <img width="552" height="295" alt="image" src="https://github.com/user-attachments/assets/f0f56d3f-b6e1-403d-be95-92280943404a" />
 
@@ -153,11 +153,9 @@ INSERT INTO customer_survey (rating, feedback) VALUES
 
 ---
 
-# 📄 Файлы проекта
 
-* `practical_work_01.sql` — SQL-скрипты всех выполненных заданий
+* [`practical_work_01.sql`](https://github.com/GubanovaSA/SQL/blob/main/practical_work_01.sql) — SQL-скрипты всех выполненных заданий
 
----
 
 # Вывод
 Были получены навыки применять продвинутые возможности PostgreSQL для анализа данных, выходящих за рамки стандартных чисел и строк. Освоена работа с временными рядами, геопространственными данными, массивами, JSON/JSONB структурами и полнотекстовым поиском.
